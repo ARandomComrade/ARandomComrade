@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ARandomComrade
 - 👀 I’m interested in ... all kinds of things like web and native applications
-- 🌱 I’m currently learning ... more about spring
+- 🌱 I’m currently learning ... assembly, jvm bytecode, web
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
