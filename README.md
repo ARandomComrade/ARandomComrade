@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ARandomComrade
-- 👀 I’m interested in ... all kinds of things like web and native applications
-- 🌱 I’m currently learning ... assembly, jvm bytecode, web
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in all kinds of things like web and native applications
+- 🌱 I’m currently learning assembly, jvm bytecode, web, java ecosystem, functional programming
+- 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me ...
 
 <!---
